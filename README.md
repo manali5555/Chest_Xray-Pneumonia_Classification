@@ -42,5 +42,5 @@ For more information on how to set up the environment, train the model, or use t
 The dataset is sourced from Kaggle.
 
 ## Author
-[Manali Ramchandani]
+Manali Ramchandani
 
