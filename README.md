@@ -1,4 +1,4 @@
-![IMG_1209](/IMG_1209.PNG "Optional title for IMG_1209")
+![IMG_1209](/IMG_1209.PNG "")
 
 # Chest_Xray-Pneumonia_Classification
 
